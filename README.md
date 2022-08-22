@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <h3 align="center">A IMS Student from Zurich</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fandiego&label=Profile%20views&color=0e75b6&style=flat" alt="fandiego" /> </p>
-
 - 🔭 I’m currently working on [Gradebook](github.com/Fandiego/Gradebook)
 
 - 💬 Ask me about **Java and Python**
