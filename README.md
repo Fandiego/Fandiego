@@ -1,9 +1,12 @@
-<h1 align="center">Diego Fantino</h1>
-<h3 align="center">Computer Science BSc Student</h3>
+<div align="center">
 
-<h4 align="center">🎓 @ <a href="https://www.ost.ch/" target="_blank">Eastern Switzerland University of Applied Sciences</a></h4>
+# Diego Fantino
 
-<p align="center">
-The difficult done immediately<br>
+### Computer Science BSc Student
+
+#### 🎓 @ [Eastern Switzerland University of Applied Sciences](https://www.ost.ch/)
+
+The difficult done immediately  
 Miracles by appointment only
-</p>
+
+</div>
